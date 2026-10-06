@@ -74,6 +74,18 @@ The dark card treatment isolates this section visually, signaling that this isn'
 
 ---
 
+## Screenshots
+
+### Desktop
+
+![Fermor Desktop](./public/desktop.png)
+
+### Mobile
+
+![Fermor Mobile](./public/mobile.png)
+
+---
+
 ## Getting Started
 
 ```bash
